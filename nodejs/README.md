@@ -12,7 +12,7 @@ $ node -v
 $ sudo npm cache clean -f
 ````
 > 执行完这个命令后会提示：`npm WARN using --force I sure hope you know what you are
-> doing`。继续执行下面的；  
+> doing`。继续执行下面的;  
 3、安装`node` 版本管理工具 `n`:
 ```base
 $ sudo npm install n -g
