@@ -11,8 +11,7 @@ $ node -v
 ```base
 $ sudo npm cache clean -f
 ````
-> 执行完这个命令后会提示：`npm WARN using --force I sure hope you know what you are
-> doing`。继续执行下面的;  
+> 执行完这个命令后会提示：`npm WARN using --force I sure hope you know what you are doing`。继续执行下面的;  
 3、安装`node` 版本管理工具 `n`:
 ```base
 $ sudo npm install n -g
@@ -24,23 +23,22 @@ $ sudo n stable
 // 安装 node 指定版本8.9.0
 $ sudo n 8.9.0
 ```
-5、安装完成，使用`node -v` 查看版本号，看是否为人想要的版本
-	若版本号未改变，则面要配置 `node` 环境变量。
-	* 查看通过 `n` 安装的 `node`  位置：
+5、安装完成，使用`node -v`
+查看版本号，看是否为人想要的版本若版本号未改变，则面要配置 `node` 环境变量。
+* 查看通过 `n` 安装的 `node`  位置：
 	```base
 	$ which node （如：/usr/local/n/versions/node/6.11.1）
 	```
-	* `cd` 进入`/usr/local/n/versions/node/` 你应该可以看到通过`n` 安装的`node`
+* `cd` 进入`/usr/local/n/versions/node/` 你应该可以看到通过`n` 安装的`node`
 	  版本，编辑 `/etc/profile`
-	* 将`node`
-	  安装的路径（这里为：/usr/local/n/versions/node/10.16.0）添加到文件中；
+* 将`node` 安装的路径（这里为：/usr/local/n/versions/node/10.16.0）添加到文件中；
 	  ```base
 	  # set node path
 	  export NODE_HOME=/usr/local/n/versions/node/10.16.0
 	  export PATH=$NODE_HOME/bin:$PATH
 	  ```
-	  * 保存退出，并`source /etc/profile`
-	  * 再次查看 `node`  版本；
+* 保存退出，并`source /etc/profile`
+* 再次查看 `node`  版本；
 
 #### `windows` 升级方法：
 	1、先卸载之前安装的`node` 版本；
@@ -108,6 +106,7 @@ $ curl -o- -L https://yarnpkg.com/install.sh | bash
 * `yarn why taco`		// 检查为什么安装 taco，详细列表依赖它的其他包
 * `yarn why uvepress`	// 检查为什么安装 vuepress，详细列出依赖它的其他包
 
+### 文档
 * [yarn 中文文档](https://yarnpkg.com/zh-Hans/docs)
 
 
