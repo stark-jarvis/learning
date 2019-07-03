@@ -27,18 +27,17 @@ $ sudo n 8.9.0
 5、安装完成，使用`node -v`
 查看版本号，看是否为人想要的版本若版本号未改变，则面要配置 `node` 环境变量。
 * 查看通过 `n` 安装的 `node`  位置：
-	```base
-	$ which node （如：/usr/local/n/versions/node/6.11.1）
-	```
-* `cd` 进入`/usr/local/n/versions/node/` 你应该可以看到通过`n` 安装的`node`
-	  版本，编辑 `/etc/profile`
+```base
+$ which node （如：/usr/local/n/versions/node/6.11.1）
+```
+* `cd` 进入`/usr/local/n/versions/node/` 你应该可以看到通过`n` 安装的`node`版本，编辑 `/etc/profile`
 * 将`node` 安装的路径（这里为：/usr/local/n/versions/node/10.16.0）添加到文件中；
-	  ```base
-	  # set node path
-	  export NODE_HOME=/usr/local/n/versions/node/10.16.0
-	  export PATH=$NODE_HOME/bin:$PATH
-	  ```
-* 保存退出，并`source /etc/profile`
+```base
+# set node path
+export NODE_HOME=/usr/local/n/versions/node/10.16.0
+export PATH=$NODE_HOME/bin:$PATH
+```
+* 保存退出，并执行`source /etc/profile`
 * 再次查看 `node`  版本；
 
 #### `windows` 升级方法：
