@@ -11,3 +11,4 @@
 ## 文档
 * [webPack中文文档](https://www.webpackjs.com/concepts/)
 * [webPack官网](https://webpack.js.org/concepts/)
+* [webPack中文](https://webpack.docschina.org/)

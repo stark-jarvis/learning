@@ -11,8 +11,16 @@
 * [VuePress Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
 
 ## UI
+* [Mand Mobile 2-滴滴](https://didi.github.io/mand-mobile/#/zh-CN/home)
+* [Cube-UI-滴滴](https://didi.github.io/cube-ui/#/zh-CN)
+* [Element-UI](https://element.eleme.cn/#/zh-CN)
 
 
 ## Project
 * [iview-admin](https://github.com/iview/iview-admin)
+* [v-charts](https://github.com/ElemeFE/v-charts)
+
+## 开发框架
+* [uni-app](https://uniapp.dcloud.io/)
+* [Hexo-博客框架](https://hexo.io/zh-cn/docs/)
 

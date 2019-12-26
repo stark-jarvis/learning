@@ -8,6 +8,7 @@
 * [Koa](https://koa.bootcss.com/)
 * [Express](http://www.expressjs.com.cn/)
 * [Node版本控制](https://github.com/nvm-sh/nvm)
+* [NodeJs 最佳实践-在线书籍](https://github.com/goldbergyoni/nodebestpractices)
 
 ### 文章列表
 * [升级Nodejs](./node/u-升级nodejs.md)
@@ -49,7 +50,7 @@ $ yarn config set sass-binary-site http://npm.taobao.org/mirrors/node-sass
 #### Yarn 安装
 ```base
 // 方式一
-$ sudo npm install -b yarn
+$ sudo npm install -g yarn
 //  方式二
 $ curl -o- -L https://yarnpkg.com/install.sh | bash
 ```
@@ -60,4 +61,10 @@ $ curl -o- -L https://yarnpkg.com/install.sh | bash
 
 ### 文章列表
 * [Yarn 常用命令](./yarn/n-Yarn常用命令.md)
+
+## UI
+> `NodeGUI` 是一个开源库，用于使用 Javascript 和类 CSS 构建跨平台本机桌面应用程序。`NodeGui`
+> 应用程序可以从单个代码库在 Mac、Windows 和 Linux 上运行。另有`React NodeGUI`，它是
+> `NodeGUI`的 `React renderer`，它旨在成为桌面开发中的 React Native。
+* [NodeGUI 和 React NodeGUI](https://blog.atulr.com/nodegui-intro)
 
