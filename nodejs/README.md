@@ -9,6 +9,7 @@
 * [Express](http://www.expressjs.com.cn/)
 * [Node版本控制](https://github.com/nvm-sh/nvm)
 * [NodeJs 最佳实践-在线书籍](https://github.com/goldbergyoni/nodebestpractices)
+* [Nest基于NodeJs的web应用框架](https://exlley.gitbooks.io/nest-js/content/)
 
 ### 文章列表
 * [升级Nodejs](./node/u-升级nodejs.md)
