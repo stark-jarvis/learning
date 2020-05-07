@@ -18,3 +18,5 @@
 - [微型CSS骰子样式库](https://github.com/diafygi/dice-css)
 
 - [CSS3的3D幻灯片工具](https://github.com/hakimel/reveal.js)
+
+- [JavaScript图像处理库](https://juejin.im/post/5eb0fe97e51d454def22679c)
