@@ -2,4 +2,4 @@
 
 
 ### 文档
-* [WebAssembly](https://www.wasm.com.cn/)
+* [WebAssembly中文网](https://www.wasm.com.cn/)
