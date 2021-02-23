@@ -8,7 +8,7 @@
 * [Vue-loader](https://vue-loader-v14.vuejs.org/zh-cn/)
 * [Vue.js 服务器端渲染指南](https://ssr.vuejs.org/zh/)
 * [Nuxt.js](https://zh.nuxtjs.org/guide/)
-* [Vite]下一代前端开发与构建工具(https://cn.vitejs.dev/)
+* [Vite 下一代前端开发与构建工具](https://cn.vitejs.dev/)
 * [VuePress Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
 
 ## UI
