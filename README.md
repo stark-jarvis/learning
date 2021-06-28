@@ -38,6 +38,7 @@
 * [Pixi 2D渲染引擎中文教程](https://www.bookstack.cn/read/LearningPixi/README.md)
 * [KonvaJS 2D](https://konvajs.org/docs/)
 * [FabricJS](http://fabricjs.com/)
+* [Mix-img 百度前端图片合成工具](https://github.com/baidu/mix-img)
 
 ## Iot 物联网
 
