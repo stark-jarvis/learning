@@ -1,0 +1,17 @@
+/*
+ * Coc.nvim Config
+ */
+
+// 用户定义的语言服务器在配置文件的languageserver字段中进行配置。有三种类型的语言服务器:模块、可执行程序和套接字。
+{
+    // 指定yarn或npm的bin路径
+    "npm.binPath": "/Users/weiko/.nvm/versions/node/v10.16.0/bin/yarn",
+    //  For snippets
+    "snippets.ultisnips.directories": [ 
+        "ultiSnips",
+        "$HOME/.vim/autoload/plugged/vim-snippets/UltiSnips/"
+    ], 
+    // git分支前的符号
+    "git.branchCharacter": ""
+}
+
