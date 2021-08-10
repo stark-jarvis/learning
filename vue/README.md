@@ -10,11 +10,13 @@
 * [Nuxt.js](https://zh.nuxtjs.org/guide/)
 * [Vite 下一代前端开发与构建工具](https://cn.vitejs.dev/)
 * [VuePress Vue 驱动的静态网站生成器](https://vuepress.vuejs.org/zh/)
+* [VitePress是在Vite上构建的静态网站生成器](https://fttp.jjf-tech.cn/vitepress/)
 
 ## UI
 * [Mand Mobile 2-滴滴](https://didi.github.io/mand-mobile/#/zh-CN/home)
 * [Cube-UI-滴滴](https://didi.github.io/cube-ui/#/zh-CN)
-* [Element-UI](https://element.eleme.cn/#/zh-CN)
+* [Element-Plus](https://element-plus.gitee.io/#/zh-CN)
+* [Vant-移动端组件库](https://vant-contrib.gitee.io/vant/#/zh-CN/home)
 
 
 ## Project
