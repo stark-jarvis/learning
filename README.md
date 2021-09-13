@@ -26,6 +26,7 @@
 
 ## 工具
 * [Typora - 强大的 MaskDown 编辑器](https://www.jianshu.com/p/434082e3275b)
+* [CodeFlask - 微型代码编辑器](https://github.com/kazzkiq/CodeFlask)
 
 ## Canvas绘图框架
 ### 文档
