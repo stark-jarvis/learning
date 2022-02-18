@@ -1,0 +1,25 @@
+/*
+ * Scss Mixin - v1.0 (2021-08-09T16:48:41+0800)
+ * Copyright 2005-2021 56.com
+ */
+
+/* 清除浮动 */
+@mixin clearfix {
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
